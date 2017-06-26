@@ -85,3 +85,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 eval `dircolors ~/.dir_colors/dircolors`
+
+alias svn='/tools/subversion-1.9.5/bin/svn'
+alias matlab='/tools/matlab2015b/bin/matlab'
